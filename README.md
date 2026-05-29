@@ -1,6 +1,27 @@
+# Hi 👋, **I'm Rudraksha Singh Chauhan**
 
+🏆 SIH 2025 Winner | Full Stack Developer | MERN Stack Enthusiast
+
+
+
+## 🚀 About Me
+
+🎓 B.Tech Student at Bundelkhand Institute of Engineering and Technology (BIET), Jhansi
+
+🏆 SIH 2025 Winner
+
+💻 Full Stack Developer specializing in MERN Stack
+
+🧠 Strong foundation in Data Structures & Algorithms using Java
+
+🌱 Currently learning System Design, Backend Engineering & Scalable Applications
+
+⚡ Passionate about solving real-world problems through technology
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksha-singh-chauhan-620294287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrakshasingh6@gmail.com) 
+
+## 💻 Coding Profiles
+🔗 LeetCode: https://leetcode.com/your_username
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
