@@ -23,8 +23,114 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksha-singh-chauhan-620294287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrakshasingh6@gmail.com) 
 
+## ⚡ The Numbers
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🧩 **236** problems solved | 🏆 **SIH 2025** National Winner |
+| 📈 Contest Rating **1,437** | 🌍 Global Rank **592,076 / 874,213** |
+| 🔥 Max Streak **66 days** | 📅 Active Days **223** |
+| 📦 Total Submissions **498** | 🥇 Top **68.11%** globally |
+| 🎖️ Badges **4** incl. 100 Days 2026 | 🏫 BIET Jhansi · B.Tech IT · 2023–Present |
+
+</div>
+
+---
+
 ## 💻 Coding Profiles
 🔗 LeetCode: https://leetcode.com/rudraa19nov
+
+## 🧮 Problem Breakdown
+
+```
+Easy   ████████████████████░░░░░░░░░░  103 / 947   ✅
+Med.   ████████████░░░░░░░░░░░░░░░░░░  120 / 2063  🟡
+Hard   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   13 / 939   🔴
+                                       ──────────
+Total  ██████░░░░░░░░░░░░░░░░░░░░░░░░  236 / 3949  🎯
+```
+
+## 🧠 Topics I've Wrestled With
+
+<div align="center">
+
+![Arrays](https://img.shields.io/badge/Arrays-★★★★★-FFA116?style=flat-square)
+![Strings](https://img.shields.io/badge/Strings-★★★★☆-FFA116?style=flat-square)
+![Dynamic%20Programming](https://img.shields.io/badge/DP-★★★☆☆-FFA116?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees-★★★☆☆-FFA116?style=flat-square)
+![Graphs](https://img.shields.io/badge/Graphs-★★★☆☆-FFA116?style=flat-square)
+![Binary%20Search](https://img.shields.io/badge/Binary%20Search-★★★★☆-FFA116?style=flat-square)
+![Two%20Pointers](https://img.shields.io/badge/Two%20Pointers-★★★★★-FFA116?style=flat-square)
+![Backtracking](https://img.shields.io/badge/Backtracking-★★☆☆☆-FFA116?style=flat-square)
+![Heap](https://img.shields.io/badge/Heap-★★★☆☆-FFA116?style=flat-square)
+![Sliding%20Window](https://img.shields.io/badge/Sliding%20Window-★★★★☆-FFA116?style=flat-square)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| Badge | Description | Status |
+|:-----:|:-----------:|:------:|
+| 🌟 **100 Days Badge 2026** | Solved problems 100 days in a row | ✅ Earned |
+| ⚡ **SIH 2025 National Winner** | Smart India Hackathon — National Level | ✅ Won |
+| 🔥 **66-Day Streak** | Personal best active streak | ✅ Achieved |
+| 🎯 **200+ Problems** | Consistency milestone | ✅ Passed |
+
+</div>
+
+---
+
+## 📈 Contest Journey
+
+```
+Rating over time (Apr → May 2026):
+
+1,500 ┤
+1,490 ┤ ●
+1,480 ┤  ╲
+1,470 ┤   ╲
+1,460 ┤    ╲___
+1,450 ┤        ╲__________●  ← 1,437 (current)
+1,440 ┤
+      └─────────────────────────────────▶
+       Apr 2026                 May 2026
+
+  Contests attended: 3   |   Keep going — top 50% is next 🎯
+```
+
+
+
+
+
+## 🔗 Find Me
+
+<div align="center">
+
+| Platform | Link |
+|:--------:|:----:|
+| 🟡 LeetCode | [rudraa19nov](https://leetcode.com/u/rudraa19nov/) |
+| 🌐 Portfolio | [rudraksha-portfolio.vercel.app](https://rudraksha-portfolio.vercel.app/) |
+| 💼 LinkedIn | [rudraksha-singh-chauhan](https://linkedin.com/in/rudraksha-singh-chauhan-620294287) |
+| 🐙 GitHub | [rudraa19nov](https://github.com/rudraa19nov) |
+| 📧 Email | [rudrakshasingh6.com](mailto:rudrakshasingh6@gmail.com) |
+</div>
+
+---
+
+<div align="center">
+
+*Made with 🧠 + ☕ + too many WA submissions*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rudraa19nov.leetcode)
+
+</div>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
