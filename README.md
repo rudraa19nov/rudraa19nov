@@ -137,14 +137,6 @@ Bundelkhand Institute of Engineering & Technology (BIET), Jhansi
 
 </p>
 
-> The card updates automatically with your latest:
->
-> * Problems Solved
-> * Easy / Medium / Hard
-> * Contest Rating
-> * Ranking
-> * Acceptance Rate
-
 ---
 
 # 🚀 Featured Projects
