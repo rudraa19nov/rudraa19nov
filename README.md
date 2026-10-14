@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Rudraksha Singh Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=SIH+2025+Winner;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;GenAI+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=SIH+2025+Winner;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;GenAI+Enthusiast;Open+Source+Learner"  />
 </p>
 
 <p align="center">
